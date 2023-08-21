@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Exploitation/webxms-deployer-hors-prod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Misc/gitlabci-templates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Misc/nodejs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Proxys/http-proxy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Proxys/proxy-omi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Utilitaires/bench" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Utilitaires/db-migration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/conversion-layer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-lib old" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-lib1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deployerdevelop/webxms-deployer-hors-prod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/e2e-protractor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gatling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/logs-streamy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/media-transcode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/migration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mms-legacy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notif" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omi (copie)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omi old" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omi popup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omi-old" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omi.old" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/popup-sms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/popup-sms/popup-sms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/proxy-wpms-wha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/soap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stubs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tests-e2e" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomcat8-java8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/watch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webxms-deployer-hors-prod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webxms-deployer-hors-prodold" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webxms-wpms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/worker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xms-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xms-docker-popupSMS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xms-docker_omi_for_pro" vcs="Git" />
+  </component>
+</project>
